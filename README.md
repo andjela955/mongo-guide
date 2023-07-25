@@ -1,4 +1,4 @@
-# MongoDb - Creating and maintaing a cluster
+# MongoDB - Creating And Maintaining A Cluster
 ![Alt text](image-3.png)
 
 ⚠️ _In real-time scenarios, there are many more things to pay attention to. If you are interested, you can always message me with questions._
